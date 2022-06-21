@@ -1,0 +1,22 @@
+ALTER trigger [dbo].[tr_PersonelSil]
+on [dbo].[tblPersonel]
+instead of
+delete
+
+as
+
+declare @xid int
+
+set @xid=(select id from deleted)
+update tblPersonel set Kayit_Durumu=0 where id=@xid
+
+------------------------------------------------------------
+
+ALTER trigger [dbo].[trg_KontenjanAz]
+on [dbo].[tblPersonel]
+after
+insert
+as
+declare @xid int
+select @xid=Bolumid from inserted
+update tblBolumler set Kontenjan-=1 where Bolumid=@xid

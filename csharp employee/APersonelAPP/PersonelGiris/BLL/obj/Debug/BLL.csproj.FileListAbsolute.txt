@@ -1,0 +1,33 @@
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\BLL\bin\Debug\BLL.dll
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\BLL\bin\Debug\BLL.pdb
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\BLL\bin\Debug\DAL.dll
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\BLL\bin\Debug\Model.dll
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\BLL\bin\Debug\DAL.pdb
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\BLL\bin\Debug\Model.pdb
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\BLL\obj\Debug\BLL.dll
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\BLL\obj\Debug\BLL.pdb
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\BLL\bin\Debug\BLL.dll
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\BLL\bin\Debug\BLL.pdb
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\BLL\bin\Debug\DAL.dll
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\BLL\bin\Debug\Model.dll
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\BLL\bin\Debug\DAL.pdb
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\BLL\bin\Debug\Model.pdb
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\BLL\obj\Debug\BLL.dll
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\BLL\obj\Debug\BLL.pdb
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\BLL\bin\Debug\BLL.dll
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\BLL\bin\Debug\BLL.pdb
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\BLL\bin\Debug\DAL.dll
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\BLL\bin\Debug\Model.dll
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\BLL\bin\Debug\DAL.pdb
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\BLL\bin\Debug\Model.pdb
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\BLL\obj\Debug\BLL.dll
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\BLL\obj\Debug\BLL.pdb

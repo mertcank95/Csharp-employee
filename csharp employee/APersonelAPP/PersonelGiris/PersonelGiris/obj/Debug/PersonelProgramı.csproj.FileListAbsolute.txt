@@ -1,0 +1,80 @@
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.exe.config
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.exe
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.pdb
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\BLL.dll
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\Model.dll
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\DAL.dll
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\BLL.pdb
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\Model.pdb
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\DAL.pdb
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csprojAssemblyReference.cache
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmGiris.resources
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.Properties.Resources.resources
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.GenerateResource.cache
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.CoreCompileInputs.cache
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.CopyComplete
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.exe
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.pdb
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPersonelislemleri.resources
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPersonelAra.resources
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPerGos.resources
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.exe.config
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.exe
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.pdb
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\bin\Debug\BLL.dll
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\bin\Debug\Model.dll
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\bin\Debug\DAL.dll
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\bin\Debug\BLL.pdb
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\bin\Debug\Model.pdb
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\bin\Debug\DAL.pdb
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csprojAssemblyReference.cache
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmGiris.resources
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPerGos.resources
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPersonelAra.resources
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPersonelislemleri.resources
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.Properties.Resources.resources
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.GenerateResource.cache
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.CoreCompileInputs.cache
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.CopyComplete
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.exe
+C:\Users\mertcan\Desktop\APersonelAPP - Kopya\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.pdb
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.exe.config
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.exe
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.pdb
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\BLL.dll
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\Model.dll
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\DAL.dll
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\BLL.pdb
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\Model.pdb
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\DAL.pdb
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csprojAssemblyReference.cache
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmGiris.resources
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPerGos.resources
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPersonelAra.resources
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPersonelislemleri.resources
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.Properties.Resources.resources
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.GenerateResource.cache
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.CoreCompileInputs.cache
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.CopyComplete
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.exe
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.pdb
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.exe.config
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.exe
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\PersonelGiris.pdb
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\BLL.dll
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\Model.dll
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\DAL.dll
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\BLL.pdb
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\Model.pdb
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\bin\Debug\DAL.pdb
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csprojAssemblyReference.cache
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmGiris.resources
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPerGos.resources
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPersonelAra.resources
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.frmPersonelislemleri.resources
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.Properties.Resources.resources
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.GenerateResource.cache
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.CoreCompileInputs.cache
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelProgramı.csproj.CopyComplete
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.exe
+E:\dersler\nesne tabanlı\c#\c# personel\APersonelAPP\PersonelGiris\PersonelGiris\obj\Debug\PersonelGiris.pdb

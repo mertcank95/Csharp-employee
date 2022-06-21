@@ -1,0 +1,12 @@
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\Model\bin\Debug\Model.dll
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\Model\bin\Debug\Model.pdb
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\Model\obj\Debug\Model.dll
+C:\Users\mertcan\Desktop\APersonelAPP\PersonelGiris\Model\obj\Debug\Model.pdb
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\Model\bin\Debug\Model.dll
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\Model\bin\Debug\Model.pdb
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\Model\obj\Debug\Model.dll
+C:\Users\mertcan\Desktop\ödev son hal\APersonelAPP\PersonelGiris\Model\obj\Debug\Model.pdb
