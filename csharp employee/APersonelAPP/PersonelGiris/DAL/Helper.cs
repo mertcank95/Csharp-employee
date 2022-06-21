@@ -14,7 +14,7 @@ namespace DAL
         {
             try
             {
-                using (SqlConnection cn= new SqlConnection(ConfigurationManager.ConnectionStrings["cstr"].ConnectionString))//işlemler bitikden sonra ramı temizleme işleme yapar (dispose)
+                using (SqlConnection cn= new SqlConnection(ConfigurationManager.ConnectionStrings["cstr"].ConnectionString))
                 {
                     using (SqlCommand cmd = new SqlCommand(cmdText, cn))
                     {
@@ -41,7 +41,7 @@ namespace DAL
         {
             try
             {
-                SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["cstr"].ConnectionString);//işlemler bitikden sonra ramı temizleme işleme yapar (dispose)
+                SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["cstr"].ConnectionString);
 
 
                      SqlCommand cmd = new SqlCommand(cmdText, cn);
